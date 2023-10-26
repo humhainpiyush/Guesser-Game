@@ -15,7 +15,7 @@ A console based Number guessing game.
 
 1. First a guesser guesses a number.
 2. Then each player gets a chance to tell their guess.
-3. Then the final result is displayed on the console.
+3. Then the final result is displayed on the console about who wins the game or whether none of them won the game.
 
 ### Layout
 
